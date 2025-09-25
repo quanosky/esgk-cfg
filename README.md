@@ -4,3 +4,4 @@ Available **CFGs**:
 > - 1on1.cfg
 > - influ.cfg
 
+F11 runs mp_restartgame 2
